@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="20dp"
+    android:layout_marginEnd="20dp">
+    <TextView
+        android:id="@+id/overTime"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center|start"
+        android:textColor="@color/white"
+        android:textSize="20sp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/nowClassName"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center|start"
+            android:textSize="17sp"
+            android:textColor="@color/white" />
+        <TextView
+            android:id="@+id/nowClassRoom"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/white" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/white"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/nextClassName"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center|start"
+            android:textSize="17sp"
+            android:textColor="@color/white" />
+        <TextView
+            android:id="@+id/nextClassRoom"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/white" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/beginTime"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center|start"
+        android:textSize="20sp"
+        android:textColor="@color/white" />
+</LinearLayout>

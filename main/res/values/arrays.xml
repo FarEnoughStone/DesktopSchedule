@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="yesOrNo">
+        <item>无</item>
+        <item>单周</item>
+        <item>双周</item>
+    </string-array>
+    <string-array name="classTime">
+        <item>1-2节</item>
+        <item>3-4节</item>
+        <item>5-6节</item>
+        <item>7-8节</item>
+        <item>晚上</item>
+    </string-array>
+    <string-array name="week">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+    </string-array>
+</resources>

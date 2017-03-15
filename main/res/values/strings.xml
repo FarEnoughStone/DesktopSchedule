@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DesktopSchedule</string>
+    <string name="title">桌面课表</string>
+    <string name="scheduleSet">课程设置</string>
+    <string name="changeClass">修改课程</string>
+    <string name="addClass">添加课程</string>
+    <string name="className">课程</string>
+    <string name="teacherName">老师</string>
+    <string name="classRoom">教室</string>
+    <string name="classTime">节次:</string>
+    <string name="yesOrNo">是否单双周：</string>
+    <string name="week">星期</string>
+    <string name="save">保存</string>
+    <string name="back">返回</string>
+    <string name="delete">删除</string>
+</resources>

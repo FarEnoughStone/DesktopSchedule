@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义控件属性-->
+    <declare-styleable name="MyControl">
+        <attr name="nameText" format="string" />
+        <attr name="nameColor" format="color"/>
+        <attr name="nameSize" format="integer"/>
+        <attr name="contentText" format="string" />
+        <attr name="contentColor" format="color" />
+        <attr name="contentSize" format="integer"/>
+        <attr name="drawable" format="reference" />
+        <attr name="backgroundColor" format="color"/>
+        <attr name="drawablePosition" format="enum" >
+            <enum name="left" value="0" />
+            <enum name="top" value="1" />
+            <enum name="right" value="2" />
+            <enum name="bottom" value="3" />
+        </attr>
+        <attr name="corners" format="integer" />
+    </declare-styleable>
+
+</resources>

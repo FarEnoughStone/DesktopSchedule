@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#ff0000</color>
+    <color name="gray">#808080</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="bule">#0000ff</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="orange">#FFA500</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="blue_one">#6899d3</color>
+    <color name="blue_two">#4284d3</color>
+    <color name="blue_three">#0e53a7</color>
+    <color name="blue_four">#04346c</color>
+    <color name="purple">#7100aa</color>
+    <color name="purple_one">#ad60d4</color>
+    <color name="purple_two">#9f35d4</color>
+    <color name="purple_three">#5f2080</color>
+    <color name="purple_four">#49006f</color>
+    <color name="indigo">#0070a0</color>
+    <color name="indigo_one">#5dadd0</color>
+    <color name="indigo_two">#34a1d0</color>
+    <color name="indigo_three">#1e5d78</color>
+    <color name="indigo_four">#004968</color>
+</resources>
